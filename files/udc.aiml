@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>I need advice</pattern>
+    <template>Have you already been diagnosed with encopresis or constipation?
+<ul>
+    <li>diagnosed with encopresis </li>
+    <li>diagnosed with constipation</li>
+    <li>not yet diagnosed</li>
+</ul>
+</template>
+  </category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
